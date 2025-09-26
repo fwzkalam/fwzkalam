@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+####
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNpMGF1ZWdrN3p5OXE3d2NtYm94NWhrMm5vYjh1am85OWpoOWljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif"  />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fwzkalam&style=for-the-badge"  />
