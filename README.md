@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNpMGF1ZWdrN3p5OXE3d2NtYm94NWhrMm5vYjh1am85OWpoOWljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif"  />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=fwzkalam&style=for-the-badge"  />
 </div>
 
@@ -16,24 +12,46 @@ Throughout my studies and hands-on projects, I have honed my skills in various p
 
 I'm eager to contribute to high-quality software projects and continuously improve my skills in QA. Check out my repositories where I share testing frameworks, bug tracking strategies, and my QA learning journey!
 
-<p align='center'>
-  💻 My Skills<br/><br/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white}" />
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white}" />
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white}" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
+###
 
-<p align='center'>
-  ✉ Connect With Me<br/><br/>
-  <a href='https://www.linkedin.com/in/fwzkalam/'>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNpMGF1ZWdrN3p5OXE3d2NtYm94NWhrMm5vYjh1am85OWpoOWljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif"  />
 
-![Fawwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwzkalam&show_icons=true&theme=tokyonight)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+</div
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fwzkalam&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fwzkalam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="80" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fwzkalam/fwzkalam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fwzkalam/fwzkalam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fwzkalam/fwzkalam/output/pacman-contribution-graph.svg">
+</picture>
+
+###
