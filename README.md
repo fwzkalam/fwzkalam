@@ -35,3 +35,5 @@ I'm eager to contribute to high-quality software projects and continuously impro
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
+![Fawwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwzkalam&show_icons=true&theme=tokyonight)
+
